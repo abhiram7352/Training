@@ -1,5 +1,5 @@
-class HelloWorld{
+class HelloWorld1{
  public static void main(String agrs[]){
- System.out.println("Welcome to 2nd day to javafull stack training ");
+ System.out.println("Welcome to TIT ");
   }
 } 
